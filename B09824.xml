@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers court of justice, laid open to publick view. With a discovery of several of their errors in principle and practice. And also certain rules and directions for all those that are desirous to be admitted into the Society of the Quakers, being very easie to be attained unto. With several remarkable passages worth your observation.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09824</idno><idno type="EEBO-CITATION">124064257</idno>
+  <idno type="VID">192314</idno>
+  <idno type="EEBO-PROQUEST">2240938244</idno>
+  
+            <idno type="OCLC"> 124064257</idno>
+            <idno type="STC">Wing Q20</idno>
+            <idno type="STC">ESTC R221321</idno>
+            <idno type="OCLC">ocn 124064257</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192314)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2915:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers court of justice, laid open to publick view. With a discovery of several of their errors in principle and practice. And also certain rules and directions for all those that are desirous to be admitted into the Society of the Quakers, being very easie to be attained unto. With several remarkable passages worth your observation.</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, for F. Coles, T. Vere, and J. Wright,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the Haverford College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192314:1"/>
+            <pb facs="tcp:192314:1"/>
+            <p>THE QUAKERS Court of Justice, Laid open to publick view.</p>
+            <p>With a discovery of several of their errors in Principle and Practice.</p>
+            <p>And also certain Rules and directions for all those that are desirous to be admitted into the Society of the <hi>Quakers,</hi> being very easie to be attained unto.</p>
+            <p>With several other Remarkable Passages worth your observation.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, for <hi>F. Coles, T. Vere,</hi> and <hi>J. Wright.</hi> 1669.</p>
+            <pb facs="tcp:192314:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:192314:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192314:3"/>
+            <pb n="1" facs="tcp:192314:3"/>
+            <head>The Quakers Court of Justice, laid open to pub<g ref="char:EOLhyphen"/>lick view.</head>
+            <p>THere is not any understanding Per<g ref="char:EOLhyphen"/>son whatsoever, but will con<g ref="char:EOLhyphen"/>clude that this Sect of men called <hi>Quakers,</hi> are the most Ridiculous, Ignorant, and stupid People in the world. Blinded with the grossest Errours that ever can be imagined, and so far from being convinc't, that a man may as soon wash a Blackamoor white, as make them to recant from any of their Principles though never so weak and falsely grounded. They are a people of an obstinate spirit and only wise in their own eyes. Neither Argument, nor reason, will serve to confute their Errours, because they believe themselves to be a people that are
+<pb n="2" facs="tcp:192314:4"/> not so subject to art as other men are.</p>
+            <p>We need do no more for the evidencing of this truth but observe what insolencies are comprehended in their Cannons, and institutions. Drawn up and agreed upon at their new Theatre in <hi>Grace-church-street</hi> in o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about <hi>January</hi> last, there is a parcel of nineteen of them but for that I shall refer you to the reading of that book for your further satisfaction.</p>
+            <p>Now that the Quakers have their Courts of Judicature doth evidently appear by Doctor <hi>Smith</hi> who had two Tryals before them at the Peel in St. <hi>Johns-street,</hi> which he hath notably set forth in his Quakers Spiritual Court proclaimed. Where he was by their Judges cast out from their Soo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ety which since they have had time to repent of, for I do believe that they had rather a given a good sum of Money then he should have discovered their cheats and abuses to the World so plainly as he hath done.</p>
+            <p>He excellently describes the manner of their Court, and how they confess their sinners, in form as followeth.</p>
+            <pb n="3" facs="tcp:192314:4"/>
+            <p>First of all when the Court begins, there cometh the Clark with his green bag, like one of the Clarks of the Peace, and he draweth forth his Papers and lays them before him. And after a little time when there are many come, then he that is judge for that day commandeth him to call over by name the transgressors, which being done they answer to their names; then they choose some of the Court to go to them into a private Room, and there they con<g ref="char:EOLhyphen"/>fess them; and if they be tractable and do submit and say they repent then they shall be forgiven, and there name shall be blot<g ref="char:EOLhyphen"/>ted out from among the wicked and be re<g ref="char:EOLhyphen"/>stored to the Saints, but if they justifie themselves, then they shall be still in the hands of the Devil, and the World to fur<g ref="char:EOLhyphen"/>ther Judgment.</p>
+            <p>If they refuse to confess and repent, then they summon them in before the Court, there to, answer; which if they do not they go to them the third time; if they stand out then, they pass sentence on them, that they are not to come amongst them. After they have been once cast out, and then be found
+<pb n="4" facs="tcp:192314:5"/> in any fault, then they are to be called as at the first, to their confession and repen<g ref="char:EOLhyphen"/>tance; but if they stand it out, then they are to be cast out from the Society of all men, which is as bad as banishment, for no man must have any commerce with such a one as is thus excommunicated, as he tendreth his own good, and the favour of the Church yet there is mercy for him, if he will send his submission to them signed with his own hand, then they will pardon him and re<g ref="char:EOLhyphen"/>ceive him amongst the Saints again, (but very doubtfully) but after the third trans<g ref="char:EOLhyphen"/>gression, there is no more remission for sin, for he is never to be received into the Church again although his repentance be never so great.</p>
+            <p>By this you may discern the manner of their Court and proceedings of their Judges when they give sentence, which is by them stiled the Condemnation and Judgement of the Spirit. But if this be their Spiritual Court I think he is worse then mad that hath any thing to do with it. In my opinion it was a gross mistake when one of their Judges was so overcome with
+<pb n="5" facs="tcp:192314:5"/> the Creature that he lost his way as he was going to a meeting; and took <hi>Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<g ref="char:EOLhyphen"/>ditch</hi> Church for a Windmil <hi>I</hi> think such a fellow might more fitly be termed a Sot, then a Saint, for at that time he had not the true light in him, till one of his Brethren put him in the right way again, and yet such Sots as these must be Judges over others so far forth that it is credibly reported that before that many of them can make their Peace with their Brethren, t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey were forced to bow down themselves and by a willing subjection to put their heads betwixt their Judges legs, and all little enough to be forgiven.</p>
+            <p>It is to be admired how these sort of men are fallen from their first Principle when they declared themselves to be all the Sons of <hi>Adam,</hi> and that it was the pride and am<g ref="char:EOLhyphen"/>bition of men which made them to Lord in over their Brethren.</p>
+            <p>But what do I speak of one principle, when they are fallen from all true worship of God, and of civility one amongst ano<g ref="char:EOLhyphen"/>ther witness their third Cannon or insti<g ref="char:EOLhyphen"/>tution concerning Marriage, where they
+<pb n="6" facs="tcp:192314:6"/> must not do together (as they call it) at the time of their first conjunction without a Jury of twelve witnesses to see fair play betwixt them which is a most sordid and ridiculous peice of Folly.</p>
+            <p>Beside many other absurdities which is not fit to be mentioned amongst any that beleives there is a God. For to deny that there is either Angels Spirits, or souls of men after this life, they may as well deny that there is a God.</p>
+            <p>But to satisfie you concerning the desperate blindness of this people, do but take a view off.</p>
+            <div type="part">
+               <head>A Collection of the Fundamental Errors of the Quakers.</head>
+               <p n="1">1. That there are not 3 persons in the Godhead.</p>
+               <p n="2">2. That Christ did not make satisfacti<g ref="char:EOLhyphen"/>on for the sin of man.</p>
+               <p n="3">3. That Justification is not by imputed righteousness.</p>
+               <p n="4">4. That our good works are the meri<g ref="char:EOLhyphen"/>torious cause of our justification.</p>
+               <p n="5">
+                  <pb n="7" facs="tcp:192314:6"/>5. That a state of Freedom from sin is attainable in this life.</p>
+               <p n="6">6. That there is a light in every man sufficient to guide him to salvation.</p>
+               <p n="7">7. That the Scripture is not the Word of God nor a standing rule of Faith and Life.</p>
+               <p n="8">8. That there is no resurrection of the Body.</p>
+               <p n="9">9. That there is no need nor use of Ordinances as Baptism, the Lords Sup<g ref="char:EOLhyphen"/>per, &amp;c.</p>
+               <p>All these most dangerous and gross Er<g ref="char:EOLhyphen"/>rors are plainly refuted by Mr. <hi>Tho. Dan<g ref="char:EOLhyphen"/>son</hi> sometime Minister of the Gospel at <hi>Sandwich</hi> in <hi>Kent,</hi> in his Book which is well worth your reading.</p>
+               <p>But if there be any persons that (not<g ref="char:EOLhyphen"/>with-standing all that hath been said) are desirous either for proffit or preferment to be admitted into the Society of the Qua<g ref="char:EOLhyphen"/>kers, let them take these instructions along with them which may stand them in great stead for that end and purpose.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:192314:7"/>
+               <head>Directions how to attain to be a Quaker.</head>
+               <p>Whoever thou art, that is desirous to be admitted, to be a member of the disor<g ref="char:EOLhyphen"/>derly Society and fraternity of the Qua<g ref="char:EOLhyphen"/>kers, it will concern thee first of all, to gain the acquaintance of some one of them that may be a means to bring thee to their meetings, where thou must carry thy self with great care and circumspection, during the time of their zealous and divine wor<g ref="char:EOLhyphen"/>ship, which being ended, make much of thy Friend and he sure to extol him that spake although he spoke neither sence nor reason.</p>
+               <p>Be constant at their meetings until thou art very well acquainted least they should censure thee for want of Zeal.</p>
+               <p>Whether it be a Man or a Woman that teaches thou must take no exceptions but say, that without all doubt what they de<g ref="char:EOLhyphen"/>liver is the truth. Be not too hasty to use t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee, and thou, as their fashion is, but stay till thou hast gained more acquaintance a<g ref="char:EOLunhyphen"/>mongst them, and then thou maist be the bolder to do it. But after thou hast once
+<pb n="9" facs="tcp:192314:7"/> begun it be sure thou never forget it.</p>
+               <p>Afterwards when thou art amongst thy Brethren have a special care to place thy words aright, say not yes, but yea, nor no, but nay, nor you, but thou, nor yours, but thine, to any single person, and in so doing thou wilt find a great mistery of Godliness therein, and see great wonders done thereby.</p>
+               <p>Be sure thou do not move thy hat, if thou meet the best man in the City, for that is one of the most noted principles belonging to thy profession, be courteous to thy bre<g ref="char:EOLhyphen"/>thren, but do not salute thy Sisters with a kiss, for some of them have got great bellys by such salutes, since which time it is quite out of fashion.</p>
+               <p>If after thou hast frequented constantly their meeting for a time, some of the chief of them come to visit thee, then let it be thy care to give them more civil and courteous entertainment then thou would do to thy nearest Relations, spare not for cost, for it will gain thee credit, and their good report of thee, when they are gone, will make o<g ref="char:EOLhyphen"/>thers sensible that thou art full of love, and
+<pb n="10" facs="tcp:192314:8"/> hast not bestow'd thy time in vain.</p>
+               <p>After a short time the Minister will per<g ref="char:EOLhyphen"/>haps give thee a visit for whom thou must provide a bottle of the best wine and what else thy house will afford of the best. It may be, he may blame thee for being at so much charge; but however with an unwilling willingness he will take part of what is presented to him, and be very glad that so good a Friend is come into the truth. But be sure wherever thou meetest any of the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andees, not to invite them into any pub<g ref="char:EOLhyphen"/>lick house as Tavern, or Ale-house, for then they will think thou art prophane.</p>
+            </div>
+            <div type="part">
+               <head>Rules for buying and selling.</head>
+               <p>If thou be a Tradesman this Profession of being a Quaker may be very advantagi<g ref="char:EOLhyphen"/>ous to thee, after thou art come to be in esteem amongst them, but thou must be sure to use plainness of speech, and to be at a word in all thy bargaining, as thy charge in<g ref="char:EOLhyphen"/>creases thou maist raise thy commodity a half-penny or a penny in the shilling, and yet not the buyer perceive it, because thou tells him at a word thou canst not afford it
+<pb n="11" facs="tcp:192314:8"/> under, and the simple novice taking thee to be a harmless innocent man, believes what thou saist, and so is cheated to his face.</p>
+               <p>Likewise in buying thy commodity's ei<g ref="char:EOLhyphen"/>ther of the Merchant or Tradesman, they look upon thee as an honest man, which gives the opportunity to beat down their price, by telling them thou canst not live by it, and so rather then they will loose thy custome they will take thy Money, because they know thy payment is sure, and thus maist thou get an Estate by being a Quaker.</p>
+               <p>Then must thou praise thy God for it, and say that he lendeth thee good things, al<g ref="char:EOLhyphen"/>though thou hast got it by fraud and deceit and so under a cloak of Religion thou maist grow rich, whilst poor simple people be<g ref="char:EOLhyphen"/>leive that God sends it thee privately, and think themselves blessed if they can but come under the shadow of thy roof.</p>
+               <p>The next observation is, that though thou be never so rich yet thou must not go gal<g ref="char:EOLhyphen"/>lant or gaudy in apparel, let thy habit be plain as a Pike-staff, and as much as pos<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ble thou can'st, endeavour to differ from the World in fashions of their cloaths; for that is a weighty matter.</p>
+               <pb facs="tcp:192314:9"/>
+               <p>If the world wear low crown'd hats, then do thou wear high, and if they were long toed shoes do thou wear short, but in any case let no Ribbons, nor Lace, be seen about thee, for that would make thee to resemble <hi>Lucifer</hi> the Prince of pride, thereby thou maist bring a scandal upon the truth, and loose the good opinion of all thy Brethren.</p>
+               <p>Whether thou wearest a Hatband, or no is not much material, and for shoe strings, and such small matters I leave them to thy self as things indifferent.</p>
+               <p>I have now shown thee a ready way to become a Quaker and by that time thou hast made use of my instructions, perhaps thou maist have cause to thank me for them but whether thou dost or no, I do not much care, for my intent was to discover to the World their insolency and abuses, rather then to incourage any one to enter into that stupid and sottish Society of men, who had rather continue in darkness then come out into the light.</p>
+               <p>But I shall not need to inlarge my dis<g ref="char:EOLhyphen"/>course herein, in regard that more able Au<g ref="char:EOLhyphen"/>thors have already undertaken the like task,
+<pb n="13" facs="tcp:192314:9"/> however it is not unknown to all the world what a disturbant stupified sort of people they have always been, and still are, never conformable to any government nor <hi>I</hi> fear never will be.</p>
+               <p>There is but little hopes of their refor<g ref="char:EOLhyphen"/>mation so long as they remain so obsti<g ref="char:EOLhyphen"/>nate, I admire that a sort of people so much enlightned with the Spirit as they say they are, should not open their eyes to see their own Errors.</p>
+               <p>It is not long ago since some of them brought a Scandal upon their professed truth, by committing that horrid sin of Murther. Where one <hi>Farmer Restal</hi> and his Son two eminent Quakers in <hi>Glocester<g ref="char:EOLhyphen"/>shire,</hi> murthered a poor innocent woman that came to them for Money which was due to her Husband, if these be the work<g ref="char:EOLhyphen"/>ings of the Spirit <hi>I</hi> pray God bless all good people out of their hands. And so <hi>I</hi> leave them to the Almighty in his due time to o<g ref="char:EOLhyphen"/>pen their eyes, that they may see their Er<g ref="char:EOLhyphen"/>rors and conclude.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:192314:10"/>
+            <pb facs="tcp:192314:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
